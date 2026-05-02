@@ -23,6 +23,7 @@ Microsoft's newest Copilot capability, **Copilot Cowork**, is moving fast — an
 
 What you'll find:
 
+- **NEW** [Custom skill DailyOps](https://github.com/JaysonBucket/Cowork-DailyOps) - Personal daily-operations system as a Cowork Custom Skill — tasks, customers, stakeholders, and a mail-capture loop for customer-facing roles.
 - **[Chat vs. Skill vs. Agent — full comparison](https://github.com/JaysonBucket/CoworkCustoms/blob/main/docs/Chat-Skill-Agent-Comparison.md)** — feature-by-feature breakdown and decision tree across Copilot Chat, Cowork Custom Skills, Agent Builder Agents, Declarative Agents, and Custom Agents in Copilot Studio
 - **[Custom Skills basics](https://github.com/JaysonBucket/CoworkCustoms/blob/main/docs/CustomSkills.md)** — folder structure, schema, and why Anthropic-style skills can't be ported 1:1
 - **[Adding custom skills, the right way](https://github.com/JaysonBucket/CoworkCustoms/blob/main/docs/AddCustomSkills.md)** — two import paths, plus how to run quality checks via the `/skills` command
